@@ -178,3 +178,7 @@ This project is used by the following companies:
 
 For support, contact me on my discord or for update requests or bug reports: **confessionsnocturnes**
 
+## Screenshots
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1236267914529869885/1347702669925417084/2025-03-0723-47-16-ezgif.com-video-to-gif-converter.gif?ex=67ccc96b&is=67cb77eb&hm=d71b6a049d17401f2c949f92a7058f8c80b4f8a9c606640c44154c96d1afa067&)
+
